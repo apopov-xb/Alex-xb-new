@@ -54,5 +54,5 @@
 2. список
 3. список
 
-:white_check_mark:
+:negative_squared_cross_mark:
 
