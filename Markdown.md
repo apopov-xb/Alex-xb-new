@@ -56,3 +56,7 @@
 
 :negative_squared_cross_mark:
 
+`вот такое выделение`
+
+![Картинка](https://pxhere.com/ru/photo/1632073) 
+
