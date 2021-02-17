@@ -58,5 +58,5 @@
 
 `вот такое выделение`
 
-![Картинка](https://pxhere.com/ru/photo/1632073) 
+![Картинка](https://pxhere.com/ru/photo/1632073.jpg) 
 
